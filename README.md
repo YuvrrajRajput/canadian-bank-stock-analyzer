@@ -20,12 +20,15 @@ The script runs end to end in a single execution. Here's the flow:
 
 **3-Year Cumulative Returns**
 Shows how $1 invested in each bank at the start of 2021 grew through to the end of 2023. BNS ran ahead of the pack for most of the period. RY, despite being Canada's largest bank by market cap, delivered the weakest cumulative return in this window.
+![3-Year Cumulative Returns](3-Year_Cumulative_Return.png)
 
 **Risk vs. Return**
 A scatter plot that puts each bank's annualized volatility on the x-axis and annualized return on the y-axis. BMO sits in the most attractive quadrant — lower risk, decent return. TD took on the most volatility with a middling return, which is reflected in its Sharpe ratio.
+![Risk vs Return](Risk_vs_Return.png)
 
 **Return Correlation Matrix**
 A heatmap showing how closely each bank's daily returns move together. All five land between 0.60 and 0.77 — highly correlated, as you'd expect from stocks in the same regulated industry exposed to the same macroeconomic conditions. BNS shows the strongest average correlation with the group.
+![Correlation Matrix](Return_Correlation_Matrix.png)
 
 ---
 
